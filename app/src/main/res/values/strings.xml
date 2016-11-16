@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cameratest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pictureText">Picture!</string>
+    <string name="contentDescriptionImagenSet">imagen</string>
+    <string name="contentDescriptionButtonImage">el boton con imagen de la galeria</string>
+    <string name="title_activity_hola">Hola</string>
+</resources>
